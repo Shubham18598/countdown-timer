@@ -37,5 +37,5 @@ This application is a basic countdown timer implemented using React. It allows u
 
 ### Demo
 
-You can view a live demo of the Todo App:[https://inspiring-bublanina-cc9505.netlify.app/](https://inspiring-bublanina-cc9505.netlify.app/)
+You can view a live demo of the Todo App: https://countdown-timer00.netlify.app/
 
