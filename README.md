@@ -22,11 +22,8 @@ This application is a basic countdown timer implemented using React. It allows u
 ### Installation
 
 1. Clone the repository: `https://github.com/Shubham18598/countdown-timer.git`
-   
-2.cd countdown-timer
-
+2. cd countdown-timer
 3. Install dependencies: `npm install`
-
 4. Run the application: `npm start`
 
 
